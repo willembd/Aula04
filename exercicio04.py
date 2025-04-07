@@ -1,5 +1,5 @@
 soma=  0
-for a in range(5):
+for a in range(1,6,1):
     num = int(input(f"Digite o {a} número para soma:"))
     soma += num
 
